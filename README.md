@@ -34,13 +34,7 @@ node --version
 npm --version
 ```
 
-Run the commands below from the repository root:
 
-```powershell
-cd "C:\Users\M.AYAN LAPTOPS\Desktop\MGC Task"
-```
-
----
 
 ## 1. Configure Environment Variables
 
@@ -249,7 +243,7 @@ A successful response shows:
 Example:
 
 ```text
-Estimated conversion likelihood: 31.4%
+Estimated conversion likelihood: 80%
 Model: logistic regression
 Use this estimate to prioritize sales follow-up.
 ```
